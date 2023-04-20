@@ -60,7 +60,8 @@
             };
         }
         public static List<int> indexNum = new List<int>();
-
+        //生成一个变量
+        
 
 
         public static int GetAroundInt(int front)
